@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ENE_PRO201_2020", "ENE_PRO201_2020.csproj", "{A98A13B1-5F01-45E3-BB85-BAFF5A5E0B9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A98A13B1-5F01-45E3-BB85-BAFF5A5E0B9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A98A13B1-5F01-45E3-BB85-BAFF5A5E0B9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A98A13B1-5F01-45E3-BB85-BAFF5A5E0B9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A98A13B1-5F01-45E3-BB85-BAFF5A5E0B9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00BC5791-E269-458B-96D8-835C24F9F01A}
+	EndGlobalSection
+EndGlobal
