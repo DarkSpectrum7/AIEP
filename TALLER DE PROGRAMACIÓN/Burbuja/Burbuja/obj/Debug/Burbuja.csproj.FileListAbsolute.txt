@@ -1,0 +1,10 @@
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\TALLER DE PROGRAMACIÓN\Burbuja\Burbuja\bin\Debug\Burbuja.exe.config
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\TALLER DE PROGRAMACIÓN\Burbuja\Burbuja\bin\Debug\Burbuja.exe
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\TALLER DE PROGRAMACIÓN\Burbuja\Burbuja\bin\Debug\Burbuja.pdb
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\TALLER DE PROGRAMACIÓN\Burbuja\Burbuja\obj\Debug\Burbuja.csprojAssemblyReference.cache
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\TALLER DE PROGRAMACIÓN\Burbuja\Burbuja\obj\Debug\Burbuja.Burbuja.resources
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\TALLER DE PROGRAMACIÓN\Burbuja\Burbuja\obj\Debug\Burbuja.Properties.Resources.resources
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\TALLER DE PROGRAMACIÓN\Burbuja\Burbuja\obj\Debug\Burbuja.csproj.GenerateResource.cache
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\TALLER DE PROGRAMACIÓN\Burbuja\Burbuja\obj\Debug\Burbuja.csproj.CoreCompileInputs.cache
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\TALLER DE PROGRAMACIÓN\Burbuja\Burbuja\obj\Debug\Burbuja.exe
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\TALLER DE PROGRAMACIÓN\Burbuja\Burbuja\obj\Debug\Burbuja.pdb
