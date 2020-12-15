@@ -1,0 +1,10 @@
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\TALLER DE PROGRAMACIÓN\ENE_PRO201_2020\obj\Debug\ENE_PRO201_2020.csprojAssemblyReference.cache
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\TALLER DE PROGRAMACIÓN\ENE_PRO201_2020\obj\Debug\ENE_PRO201_2020.login.resources
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\TALLER DE PROGRAMACIÓN\ENE_PRO201_2020\obj\Debug\ENE_PRO201_2020.Properties.Resources.resources
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\TALLER DE PROGRAMACIÓN\ENE_PRO201_2020\obj\Debug\ENE_PRO201_2020.csproj.GenerateResource.cache
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\TALLER DE PROGRAMACIÓN\ENE_PRO201_2020\obj\Debug\ENE_PRO201_2020.csproj.CoreCompileInputs.cache
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\TALLER DE PROGRAMACIÓN\ENE_PRO201_2020\bin\Debug\ENE_PRO201_2020.exe.config
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\TALLER DE PROGRAMACIÓN\ENE_PRO201_2020\bin\Debug\ENE_PRO201_2020.exe
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\TALLER DE PROGRAMACIÓN\ENE_PRO201_2020\bin\Debug\ENE_PRO201_2020.pdb
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\TALLER DE PROGRAMACIÓN\ENE_PRO201_2020\obj\Debug\ENE_PRO201_2020.exe
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\TALLER DE PROGRAMACIÓN\ENE_PRO201_2020\obj\Debug\ENE_PRO201_2020.pdb

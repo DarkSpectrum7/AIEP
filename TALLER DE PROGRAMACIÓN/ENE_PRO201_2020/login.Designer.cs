@@ -33,6 +33,7 @@
             this.label3 = new System.Windows.Forms.Label();
             this.textBox_Usuario = new System.Windows.Forms.TextBox();
             this.textBox_Password = new System.Windows.Forms.TextBox();
+            this.button_Entrar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -79,11 +80,22 @@
             this.textBox_Password.Size = new System.Drawing.Size(142, 20);
             this.textBox_Password.TabIndex = 4;
             // 
+            // button_Entrar
+            // 
+            this.button_Entrar.Location = new System.Drawing.Point(134, 157);
+            this.button_Entrar.Name = "button_Entrar";
+            this.button_Entrar.Size = new System.Drawing.Size(142, 23);
+            this.button_Entrar.TabIndex = 5;
+            this.button_Entrar.Text = "Entrar";
+            this.button_Entrar.UseVisualStyleBackColor = true;
+            this.button_Entrar.Click += new System.EventHandler(this.Button_Entrar_Click);
+            // 
             // login
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(333, 192);
+            this.Controls.Add(this.button_Entrar);
             this.Controls.Add(this.textBox_Password);
             this.Controls.Add(this.textBox_Usuario);
             this.Controls.Add(this.label3);
@@ -103,6 +115,7 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.TextBox textBox_Usuario;
         private System.Windows.Forms.TextBox textBox_Password;
+        private System.Windows.Forms.Button button_Entrar;
     }
 }
 
