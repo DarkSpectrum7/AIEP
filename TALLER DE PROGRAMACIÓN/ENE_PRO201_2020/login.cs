@@ -31,7 +31,7 @@ namespace ENE_PRO201_2020
 
             SqlCommand comSQl;
 
-            comSQl = new SqlCommand("sp_logins", con);
+            comSQl = new SqlCommand("sp_ValidaUsuario", con);
             comSQl.CommandType = CommandType.StoredProcedure;
             comSQl.Parameters.AddWithValue("@usuario", Usuario);
             comSQl.Parameters.AddWithValue("@clave", Clave);
