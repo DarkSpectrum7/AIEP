@@ -20,6 +20,11 @@ namespace ENE_PRO201_2020
 
         private void Button_Entrar_Click(object sender, EventArgs e)
         {
+            Login();
+        }
+
+        public void Login()
+        {
             string Usuario, Clave;
 
             Usuario = textBox_Usuario.Text;
@@ -31,7 +36,7 @@ namespace ENE_PRO201_2020
 
             SqlCommand comSQl;
 
-            comSQl = new SqlCommand("sp_ValidaUsuario", con);
+            comSQl = new SqlCommand("SP_ValidaUsuario", con);
             comSQl.CommandType = CommandType.StoredProcedure;
             comSQl.Parameters.AddWithValue("@usuario", Usuario);
             comSQl.Parameters.AddWithValue("@clave", Clave);
@@ -43,6 +48,12 @@ namespace ENE_PRO201_2020
             if (dt.Rows.Count > 0)
             {
                 MessageBox.Show(Convert.ToString(dt.Rows[0]["MensajeRet"]));
+            }
+            else
+            {
+                From_menu Fmenu = new From_menu();
+                Fmenu.Show();
+                this.Hide();
             }
 
             con.Close();

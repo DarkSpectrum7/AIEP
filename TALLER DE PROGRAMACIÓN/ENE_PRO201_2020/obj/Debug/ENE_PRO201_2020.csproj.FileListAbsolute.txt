@@ -8,3 +8,6 @@ C:\Users\DarkSpectrum\Documents\GitHub\AIEP\TALLER DE PROGRAMACIÓN\ENE_PRO201_2
 C:\Users\DarkSpectrum\Documents\GitHub\AIEP\TALLER DE PROGRAMACIÓN\ENE_PRO201_2020\bin\Debug\ENE_PRO201_2020.pdb
 C:\Users\DarkSpectrum\Documents\GitHub\AIEP\TALLER DE PROGRAMACIÓN\ENE_PRO201_2020\obj\Debug\ENE_PRO201_2020.exe
 C:\Users\DarkSpectrum\Documents\GitHub\AIEP\TALLER DE PROGRAMACIÓN\ENE_PRO201_2020\obj\Debug\ENE_PRO201_2020.pdb
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\TALLER DE PROGRAMACIÓN\ENE_PRO201_2020\obj\Debug\ENE_PRO201_2020.From_lista_requerimientos.resources
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\TALLER DE PROGRAMACIÓN\ENE_PRO201_2020\obj\Debug\ENE_PRO201_2020.From_registro_requerimiento.resources
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\TALLER DE PROGRAMACIÓN\ENE_PRO201_2020\obj\Debug\ENE_PRO201_2020.From_menu.resources

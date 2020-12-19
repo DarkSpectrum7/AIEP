@@ -10,16 +10,15 @@ go
 --=====================================================================================
 create table usuario (	id_cuenta varchar(30) primary key not null,
 						clave varchar(30) not null,
+						tipo_usuario varchar(100) not null,
 						nombre varchar(100) not null)
 
 go
 
-select * from usuario
-
-insert usuario  select 'admin','admin','Administrador'
-insert usuario  select 'usr1','usr1','Analista'
-insert usuario  select 'usr2','usr2','Programador'
-insert usuario  select 'usr3','usr3','Soporte'
+insert usuario  select 'admin','admin','Administrador','Administrador'
+insert usuario  select 'usr1','usr1','Analista','Juan Perez'
+insert usuario  select 'usr2','usr2','Programador','Patricio Vasquez'
+insert usuario  select 'usr3','usr3','Soporte','Alejandro Martinez'
 
 go
 --=====================================================================================
@@ -63,62 +62,21 @@ create table requerimiento (id_req int identity (1,1) primary key not null,
 
 go
 
-insert requerimiento select 'instalar office','P',3,2,'20201212','gmoya'
-insert requerimiento select 'instalar antivirus','P',3,1,'20201212','gmoya'
-
-go
-
---=====================================================================================
---SI ALCANZAMOS HACEMOS LOS ACCESOS CON PERFILES Y NIVEL DE PRIVILEGIO
---=====================================================================================
---=====================================================================================
---PERFIL
---=====================================================================================
---create table perfil (id_per varchar(20) primary key, 
---					nombre varchar(100))
-
---go
-
---insert perfil select 'administrador','Administrador del sistema'
---insert perfil select 'analista','Analista de Requerimientos'
-
---go
---=====================================================================================
---PRIVILEGIO
---=====================================================================================
---create table privilegio (	id_rol varchar(20), 
---							id_menu varchar(10))
-
---go
-
---insert privilegio select 'administrador','SR01'
---insert privilegio select 'administrador','SR02'
---insert privilegio select 'analista','SR02'
-
---go
---=====================================================================================
---MENU
---=====================================================================================
---create table menu (	id_menu varchar(10) primary key, 
---					glosa varchar(100))
-
---insert menu select 'SR01','Ingresar Requerimiento'
---insert menu select 'SR02','Consultar Requerimiento'
-
---go
---=====================================================================================
---USUARIO
---=====================================================================================
---create table usuario (	id_usuario varchar(30) primary key, 
---						nombre varchar(100), 
---						clave varchar(30))
---						--id_rol varchar(20))
-
---go
-
---insert usuario  select 'blisboa','bernardo lisboa','123456','administrador'
---insert usuario  select 'gmoya','gonzalo moya','123456','administrador'
---insert usuario  select 'mferrada','mauricio ferrada','123456','analista'
---insert usuario  select 'spizarro','sebastian pizarro','123456','analista'
-
---go
+insert requerimiento values ('Solicitud...','P',getdate(),1,1,'usr1')
+insert requerimiento values ('Solicitud...','P',getdate(),2,1,'usr1')
+insert requerimiento values ('Solicitud...','P',getdate(),3,1,'usr1')
+insert requerimiento values ('Solicitud...','P',getdate(),1,2,'usr2')
+insert requerimiento values ('Solicitud...','P',getdate(),2,2,'usr2')
+insert requerimiento values ('Solicitud...','P',getdate(),3,2,'usr2')
+insert requerimiento values ('Solicitud...','P',getdate(),1,3,'usr3')
+insert requerimiento values ('Solicitud...','P',getdate(),2,3,'usr3')
+insert requerimiento values ('Solicitud...','P',getdate(),3,3,'usr3')
+insert requerimiento values ('Solicitud...','R',getdate(),1,1,'usr1')
+insert requerimiento values ('Solicitud...','R',getdate(),2,1,'usr1')
+insert requerimiento values ('Solicitud...','R',getdate(),3,1,'usr1')
+insert requerimiento values ('Solicitud...','R',getdate(),1,2,'usr2')
+insert requerimiento values ('Solicitud...','R',getdate(),2,2,'usr2')
+insert requerimiento values ('Solicitud...','R',getdate(),3,2,'usr2')
+insert requerimiento values ('Solicitud...','R',getdate(),1,3,'usr3')
+insert requerimiento values ('Solicitud...','R',getdate(),2,3,'usr3')
+insert requerimiento values ('Solicitud...','R',getdate(),3,3,'usr3')
