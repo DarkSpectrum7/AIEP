@@ -17,7 +17,7 @@ namespace CapaEntidad
         }
 
         public int Id_cli { get => id_cli; set => id_cli = value; }
-        public string Id_logins { get => id_logins; set => id_logins = value; }
+        public int Id_logins { get => id_logins; set => id_logins = value; }
     }
 
 
