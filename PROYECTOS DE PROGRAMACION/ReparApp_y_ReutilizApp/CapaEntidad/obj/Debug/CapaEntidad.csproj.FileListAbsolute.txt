@@ -1,2 +1,8 @@
 C:\Users\DarkSpectrum\Documents\GitHub\AIEP\ReparApp_y_ReutilizApp\presentacion\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
 C:\Users\DarkSpectrum\Documents\GitHub\AIEP\ReparApp_y_ReutilizApp\presentacion\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\PROYECTOS DE PROGRAMACION\ReparApp_y_ReutilizApp\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\PROYECTOS DE PROGRAMACION\ReparApp_y_ReutilizApp\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\PROYECTOS DE PROGRAMACION\ReparApp_y_ReutilizApp\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\PROYECTOS DE PROGRAMACION\ReparApp_y_ReutilizApp\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\PROYECTOS DE PROGRAMACION\ReparApp_y_ReutilizApp\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\PROYECTOS DE PROGRAMACION\ReparApp_y_ReutilizApp\CapaEntidad\obj\Debug\CapaEntidad.pdb

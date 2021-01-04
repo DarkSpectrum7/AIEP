@@ -1,1 +1,12 @@
 C:\Users\DarkSpectrum\Documents\GitHub\AIEP\ReparApp_y_ReutilizApp\presentacion\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\PROYECTOS DE PROGRAMACION\ReparApp_y_ReutilizApp\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\PROYECTOS DE PROGRAMACION\ReparApp_y_ReutilizApp\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\PROYECTOS DE PROGRAMACION\ReparApp_y_ReutilizApp\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\PROYECTOS DE PROGRAMACION\ReparApp_y_ReutilizApp\CapaNegocio\bin\Debug\CapaPersistencia.dll
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\PROYECTOS DE PROGRAMACION\ReparApp_y_ReutilizApp\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\PROYECTOS DE PROGRAMACION\ReparApp_y_ReutilizApp\CapaNegocio\bin\Debug\CapaPersistencia.pdb
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\PROYECTOS DE PROGRAMACION\ReparApp_y_ReutilizApp\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\PROYECTOS DE PROGRAMACION\ReparApp_y_ReutilizApp\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\PROYECTOS DE PROGRAMACION\ReparApp_y_ReutilizApp\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\PROYECTOS DE PROGRAMACION\ReparApp_y_ReutilizApp\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\PROYECTOS DE PROGRAMACION\ReparApp_y_ReutilizApp\CapaNegocio\obj\Debug\CapaNegocio.pdb

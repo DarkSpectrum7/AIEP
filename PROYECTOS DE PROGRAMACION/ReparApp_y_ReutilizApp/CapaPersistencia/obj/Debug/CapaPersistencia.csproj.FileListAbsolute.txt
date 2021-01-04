@@ -1,1 +1,10 @@
 C:\Users\DarkSpectrum\Documents\GitHub\AIEP\ReparApp_y_ReutilizApp\presentacion\CapaPersistencia\obj\Debug\CapaPersistencia.csproj.CoreCompileInputs.cache
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\PROYECTOS DE PROGRAMACION\ReparApp_y_ReutilizApp\CapaPersistencia\bin\Debug\CapaPersistencia.dll
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\PROYECTOS DE PROGRAMACION\ReparApp_y_ReutilizApp\CapaPersistencia\bin\Debug\CapaPersistencia.pdb
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\PROYECTOS DE PROGRAMACION\ReparApp_y_ReutilizApp\CapaPersistencia\bin\Debug\CapaEntidad.dll
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\PROYECTOS DE PROGRAMACION\ReparApp_y_ReutilizApp\CapaPersistencia\bin\Debug\CapaEntidad.pdb
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\PROYECTOS DE PROGRAMACION\ReparApp_y_ReutilizApp\CapaPersistencia\obj\Debug\CapaPersistencia.csprojAssemblyReference.cache
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\PROYECTOS DE PROGRAMACION\ReparApp_y_ReutilizApp\CapaPersistencia\obj\Debug\CapaPersistencia.csproj.CoreCompileInputs.cache
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\PROYECTOS DE PROGRAMACION\ReparApp_y_ReutilizApp\CapaPersistencia\obj\Debug\CapaPersistencia.csproj.CopyComplete
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\PROYECTOS DE PROGRAMACION\ReparApp_y_ReutilizApp\CapaPersistencia\obj\Debug\CapaPersistencia.dll
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\PROYECTOS DE PROGRAMACION\ReparApp_y_ReutilizApp\CapaPersistencia\obj\Debug\CapaPersistencia.pdb
