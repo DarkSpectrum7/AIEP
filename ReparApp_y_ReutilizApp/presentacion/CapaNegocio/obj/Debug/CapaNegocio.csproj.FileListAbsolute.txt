@@ -1,0 +1,1 @@
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\ReparApp_y_ReutilizApp\presentacion\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache

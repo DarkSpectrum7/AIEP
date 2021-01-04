@@ -1,0 +1,1 @@
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\ReparApp_y_ReutilizApp\presentacion\CapaPersistencia\obj\Debug\CapaPersistencia.csproj.CoreCompileInputs.cache

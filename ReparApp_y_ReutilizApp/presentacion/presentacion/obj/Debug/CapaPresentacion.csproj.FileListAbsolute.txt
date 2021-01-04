@@ -1,0 +1,4 @@
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\ReparApp_y_ReutilizApp\presentacion\presentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\ReparApp_y_ReutilizApp\presentacion\presentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\ReparApp_y_ReutilizApp\presentacion\presentacion\obj\Debug\presentacion.dll
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\ReparApp_y_ReutilizApp\presentacion\presentacion\obj\Debug\presentacion.pdb

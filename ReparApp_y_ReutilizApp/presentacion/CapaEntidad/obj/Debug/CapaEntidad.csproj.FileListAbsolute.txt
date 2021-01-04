@@ -1,0 +1,2 @@
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\ReparApp_y_ReutilizApp\presentacion\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
+C:\Users\DarkSpectrum\Documents\GitHub\AIEP\ReparApp_y_ReutilizApp\presentacion\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
