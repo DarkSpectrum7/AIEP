@@ -49,8 +49,8 @@
     <Compile Include="DAOSolicitud.cs" />
     <Compile Include="DAOTipoUsuario.cs" />
     <Compile Include="DAOTrabajador.cs" />
-    <Compile Include="DOACliente.cs" />
-    <Compile Include="DOAComuna.cs" />
+    <Compile Include="DAOCliente.cs" />
+    <Compile Include="DAOComuna.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

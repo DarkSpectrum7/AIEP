@@ -71,23 +71,15 @@
   <ItemGroup>
     <Content Include="Ayuda.aspx" />
     <Content Include="Contactanos.aspx" />
-    <Content Include="css\bootstrap-grid.css" />
-    <Content Include="css\bootstrap-grid.min.css" />
-    <Content Include="css\bootstrap-grid.rtl.css" />
-    <Content Include="css\bootstrap-grid.rtl.min.css" />
-    <Content Include="css\bootstrap-reboot.css" />
-    <Content Include="css\bootstrap-reboot.min.css" />
-    <Content Include="css\bootstrap-reboot.rtl.css" />
-    <Content Include="css\bootstrap-reboot.rtl.min.css" />
-    <Content Include="css\bootstrap-utilities.css" />
-    <Content Include="css\bootstrap-utilities.min.css" />
-    <Content Include="css\bootstrap-utilities.rtl.css" />
-    <Content Include="css\bootstrap-utilities.rtl.min.css" />
     <Content Include="css\bootstrap.css" />
     <Content Include="css\bootstrap.min.css" />
-    <Content Include="css\bootstrap.rtl.css" />
-    <Content Include="css\bootstrap.rtl.min.css" />
+    <Content Include="css\font-awesome.css" />
+    <Content Include="css\menu.css" />
+    <Content Include="font\fontawesome-webfont.svg" />
     <Content Include="Global.asax" />
+    <Content Include="images\arrow.png" />
+    <Content Include="images\logo.png" />
+    <Content Include="images\plus-gray.png" />
     <Content Include="Inicio.aspx" />
     <Content Include="js\bootstrap.bundle.js" />
     <Content Include="js\bootstrap.bundle.min.js" />
@@ -95,6 +87,8 @@
     <Content Include="js\bootstrap.esm.min.js" />
     <Content Include="js\bootstrap.js" />
     <Content Include="js\bootstrap.min.js" />
+    <Content Include="js\function.js" />
+    <Content Include="js\jquery.js" />
     <Content Include="Login.aspx" />
     <Content Include="Registrar.aspx" />
     <Content Include="Scripts\esm\popper-utils.js" />
@@ -223,13 +217,6 @@
     <Compile Include="Login.aspx.designer.cs">
       <DependentUpon>Login.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Principal.Master.cs">
-      <DependentUpon>Principal.Master</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Principal.Master.designer.cs">
-      <DependentUpon>Principal.Master</DependentUpon>
-    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Registrar.aspx.cs">
       <DependentUpon>Registrar.aspx</DependentUpon>
@@ -254,30 +241,19 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="css\bootstrap-grid.css.map" />
-    <Content Include="css\bootstrap-grid.min.css.map" />
-    <Content Include="css\bootstrap-grid.rtl.css.map" />
-    <Content Include="css\bootstrap-grid.rtl.min.css.map" />
-    <Content Include="css\bootstrap-reboot.css.map" />
-    <Content Include="css\bootstrap-reboot.min.css.map" />
-    <Content Include="css\bootstrap-reboot.rtl.css.map" />
-    <Content Include="css\bootstrap-reboot.rtl.min.css.map" />
-    <Content Include="css\bootstrap-utilities.css.map" />
-    <Content Include="css\bootstrap-utilities.min.css.map" />
-    <Content Include="css\bootstrap-utilities.rtl.css.map" />
-    <Content Include="css\bootstrap-utilities.rtl.min.css.map" />
     <Content Include="css\bootstrap.css.map" />
     <Content Include="css\bootstrap.min.css.map" />
-    <Content Include="css\bootstrap.rtl.css.map" />
-    <Content Include="css\bootstrap.rtl.min.css.map" />
     <Content Include="js\bootstrap.bundle.js.map" />
     <Content Include="js\bootstrap.bundle.min.js.map" />
     <Content Include="js\bootstrap.esm.js.map" />
     <Content Include="js\bootstrap.esm.min.js.map" />
     <Content Include="js\bootstrap.js.map" />
     <Content Include="js\bootstrap.min.js.map" />
+    <Content Include="font\fontawesome-webfont.eot" />
+    <Content Include="font\fontawesome-webfont.ttf" />
+    <Content Include="font\fontawesome-webfont.woff" />
+    <Content Include="font\FontAwesome.otf" />
     <None Include="packages.config" />
-    <Content Include="Principal.Master" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

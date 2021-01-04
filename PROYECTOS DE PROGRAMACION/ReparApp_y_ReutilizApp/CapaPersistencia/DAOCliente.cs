@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CapaPersistencia
 {
-    public class DOACliente
+    public class DAOCliente
     {
     }
 }
